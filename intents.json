@@ -3,7 +3,7 @@
                 {
                  "tag":"greetings",
                  "patterns": ["hello","hey","hi","good day","greetings","what's up?","how is it going"],
-                 "responses":["Hello","Hey There!","What can i do for you today?","How has been your health lately?"]
+                 "responses":["Hello","Hey There! What can i do for you today?","How has been your health lately?"]
                 },
                 {
                  "tag":"goodbye",
