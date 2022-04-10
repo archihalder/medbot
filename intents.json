@@ -117,47 +117,47 @@
                  "responses":["It seem that you are suffering from Asthma"]
                 },
                 {
-                 "tag":"common cold prevention",
+                 "tag":"common cold prevention and medicines",
                  "patterns":["What medicines can I buy to help me with my common cold?","tell me some prevention method from common cold","What should I eat or drink if i am suffering from common cold?","How can I keep from getting a cold or the flu?"],
                  "responses":["medicines you can consume : Dextromethorphan,Decongestant,Diphenhydramine,Crocin Cold & Flu Max, preventions that you must follow :Wash your hands,Avoid touching your face,Clean frequently used surfaces,Use hand sanitizers,SUGGESTED FOODS ARE:Garlic,Vitamin C–containing fruits,Leafy greens,Broccoli,Oatmeal,Spices,Chicken Soup"]
                 },
                 {
-                 "tag":"fever prevention",
+                 "tag":"fever prevention and medications",
                  "patterns":["What medicines can I buy to help me with my fever?","tell me some prevention method from fever","What should I eat or drink if i am suffering from fever?","How can I keep from getting a fever?"],
                  "responses":["medicines you can consume : acetaminophen ,ibuprofen,aspirin,Crocin Cold & Flu Max, prevention that you must follow :Wash your hands,Cover your mouth when you cough and your nose when you sneeze,Clean frequently used surfaces,Avoid sharing cups, glasses, and eating utensils with other people.,SUGGESTED FOODS ARE:Garlic,Vitamin C–containing fruits,Leafy greens,Broccoli,Oatmeal,Spices,Chicken Soup"]
                 },
                 {
-                    "tag":"cardiac problems prevention",
+                    "tag":"cardiac problems prevention and medication",
                     "patterns":["What medicines can I buy to help me with my heart problem?","tell me some prevention method from heart problem","What should I eat or drink if i am suffering from heart problem?","How can I prevent myself from having a heart problem?"],
                     "responses":["medicines you can consume : dilzem,deplatt CV, Atorva, Apigut, prevention that you must follow :Eat low fat food,Eat less oily food, Do some cardiovascular exercises daily and stay under doctor's regular supervision,quitting smoking, and limiting alcohol intake.,SUGGESTED FOODS ARE:Fruits and vegetables,nuts and seeds,plant-based oils, such as olive oil,lean meats"]
                 },
                 {
-                    "tag":"gastric problem prevention",
+                    "tag":"gastric problem prevention and medication",
                     "patterns":["What medicines can I buy to help me with my gastric pain?","tell me some prevention method from gastric pain","What should I eat or drink if i am suffering from gastrcic problem?"],
                     "responses":["medicines you can consume : Omeprazole, pantoprazole and lansoprazole, prevention that you must follow :Eat high fiber diet and low on oil food, perform some yoga which aids in digestion, drink warm cumin water in the morning to enhance enzymic activity,SUGGESTED FOODS ARE:Dietary fiber. This includes oats, legumes, flax seeds, nuts, oranges, apples, and carrots, Vitamin A rich foods. Foods like broccoli, sweet potatoes, kale, spinach, and collard greens contain vitamin A."]
                 },
                 {
-                    "tag":"urological problem prevention",
+                    "tag":"urological problem prevention and medication",
                     "patterns":["What medicines can I buy to help me with my urological problem?","tell me some prevention method from urological problem","What should I eat or drink if i am suffering from urological problem?","How can I keep from getting a urological problem?"],
                     "responses":["medicines you can consume : antibiotics, penicillin, Nitrofurantoin (Macrobid), Trimethoprim-sulfamethoxazole (Bactrim), Fosfomycin (Monurol), prevention that you must follow :Drink plenty of water, and relieve yourself often,SUGGESTED FOODS ARE:Dietary fiber. This includes oats, legumes, flax seeds, nuts, oranges, apples, and carrots, Vitamin A rich foods. Foods like broccoli, sweet potatoes, kale, spinach, and collard greens contain vitamin A."]
                 },
                 {
-                    "tag":"skin problem prevention",
+                    "tag":"skin problem prevention and medication",
                     "patterns":["What medicines can I buy to help me with skin disease?","tell me some prevention method skin disease","What should I eat or drink if i am suffering skin disease?","How can I keep from gettiskin disease?"],
                     "responses":["medicines you can consume : Antibiotics, Antihistamines, Laser skin resurfacing, Medicated creams, ointments or gels, Moisturizers,Steroid pills, creams or injections,Surgical procedures., prevention that you must follow :Take bath daily, Use medicated soap, Prefer cold showers always, stay hydrated,SUGGESTED FOODS ARE:Fatty fish. Fatty fish, such as salmon, mackerel, and herring,Avocados,Walnuts,Sunflower seeds,Sweet potatoes,Red or yellow bell peppers,Broccoli,Tomatoes"]
                 },
                 {
-                 "tag":"diabetes prevention",
+                 "tag":"diabetes prevention and medication",
                  "patterns":["What medicines can I buy to help me with my diabetes?","tell me some prevention method from diabetes","What should I eat or drink if i am suffering from diabetes?","How can I keep from getting diabetes?"],
                  "responses":["medicines you can consume : Insulin ,Amylinomimetic drug,Dipeptidyl peptidase-4 (DPP-4) inhibitor, prevention that you must follow :Cut Sugar and Refined Carbs From Your Diet,Work Out Regularly,Drink Water as Your Primary Beverage,Lose Weight If You’re Overweight or Obese,Quit Smoking, Follow a Very-Low-Carb Diet,Watch Portion Sizes,SUGGESTED FOODS ARE:Leafy greens,Avocados,Eggs"]
                 },
                 {
-                 "tag":"depression prevention",
+                 "tag":"depression prevention and medication",
                  "patterns":["What medicines can I buy to help me with my depression?","tell me some prevention method from depression","What should I eat or drink if i am suffering from depression?","How can I keep from getting depression?"],
                  "responses":["medicines you can consume :  brexpiprazole, quetiapine,olanzapine, prevention that you must follow :Exercise regularly,Cut back on social media time,Drink Water as Your Primary Beverage,Build strong relationships,Minimize your daily choices, Follow a Very-Low-Carb Diet,SUGGESTED FOODS ARE:Get Enough Vitamin D,Include Omega-3 Fatty Acids,Beans and legumes"]
                 },
                 {
-                 "tag":"asthma prevention",
+                 "tag":"asthma prevention and medication",
                  "patterns":["What medicines can I buy to help me with my asthma?","tell me some prevention method from asthma","What should I eat or drink if i am suffering from asthma?","How can I keep from getting asthma?"],
                  "responses":["medicines you can consume : epinephrine,anticholinergic,Proair HFA, prevention that you must follow : Identify Asthma Triggers, Stay Away From Allergens,Avoid Smoke of Any Type,SUGGESTED FOODS ARE:carrots,juice,eggs,broccoli,cantaloupe,milk"]
                 },
