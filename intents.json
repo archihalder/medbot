@@ -45,7 +45,7 @@
                  "responses":["It seems that you are suffering from fever"]
                 },
                 {
-                    "tag":"cardiology",
+                    "tag":"heart diseases",
                     "patterns":["Chest pain", 
                         "chest tightness", 
                         "chest pressure",
@@ -56,7 +56,7 @@
                     "responses":["It seems that you are suffering from cardiovascular disease. Please check your heartbeat and SPO2 leevl immediately. If unusual patterns are found, consult a doctor immediately."]
                 },
                 {
-                    "tag":"urology",
+                    "tag":"Kidney problems",
                     "patterns":["Pain areas: in the bladder, groin, lower abdomen, or pelvis",
                         "Pain during urination",
                         "foul smelling urine", "frequent urination", "bladder spasm", "cloudy urine", "dark urine",
@@ -96,7 +96,7 @@
                  "responses":["It seems that you are suffering from Diabetes"]
                 },
                 {
-                 "tag":"Depression symptoms",
+                 "tag":"Depression",
                  "patterns":["Hopeless outlook",
                  "Lost interest",
                  "Increased fatigue",
@@ -107,7 +107,7 @@
                  "responses":["It seem that you are suffering from depression"]
                 },
                 {
-                 "tag":"Asthma symptoms",
+                 "tag":"Asthma",
                  "patterns":["coughing",
                  "tightness in the chest",
                  "shortness of breath",
@@ -152,12 +152,12 @@
                  "responses":["medicines you can consume : Insulin ,Amylinomimetic drug,Dipeptidyl peptidase-4 (DPP-4) inhibitor, prevention that you must follow :Cut Sugar and Refined Carbs From Your Diet,Work Out Regularly,Drink Water as Your Primary Beverage,Lose Weight If You’re Overweight or Obese,Quit Smoking, Follow a Very-Low-Carb Diet,Watch Portion Sizes,SUGGESTED FOODS ARE:Leafy greens,Avocados,Eggs"]
                 },
                 {
-                 "tag":"depression prevention and medication",
+                 "tag":"depression medication",
                  "patterns":["What medicines can I buy to help me with my depression?","tell me some prevention method from depression","What should I eat or drink if i am suffering from depression?","How can I keep from getting depression?"],
                  "responses":["medicines you can consume :  brexpiprazole, quetiapine,olanzapine, prevention that you must follow :Exercise regularly,Cut back on social media time,Drink Water as Your Primary Beverage,Build strong relationships,Minimize your daily choices, Follow a Very-Low-Carb Diet,SUGGESTED FOODS ARE:Get Enough Vitamin D,Include Omega-3 Fatty Acids,Beans and legumes"]
                 },
                 {
-                 "tag":"asthma prevention and medication",
+                 "tag":"asthma medication",
                  "patterns":["What medicines can I buy to help me with my asthma?","tell me some prevention method from asthma","What should I eat or drink if i am suffering from asthma?","How can I keep from getting asthma?"],
                  "responses":["medicines you can consume : epinephrine,anticholinergic,Proair HFA, prevention that you must follow : Identify Asthma Triggers, Stay Away From Allergens,Avoid Smoke of Any Type,SUGGESTED FOODS ARE:carrots,juice,eggs,broccoli,cantaloupe,milk"]
                 },
